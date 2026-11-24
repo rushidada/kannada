@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="Religious" tvg-chno="3760" nexus-score="100",Aastha Kannada (480p)
+#EXTINF:-1 tvg-id="Aastha-Kannada.in" tvg-name="Aastha Kannada" tvg-logo="https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="kan" group-title="Religious" tvg-chno="3760" nexus-score="100",Aastha Kannada (480p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/6938ef4f35324389bf08c16b7e8cd1f7/index.m3u8
 #EXTINF:-1 tvg-id="AshwaveegaNews24x7.in" tvg-name="Ashwaveega News 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png" tvg-country="IN" tvg-language="kan" group-title="News" tvg-chno="3794" nexus-score="93",Ashwaveega News 24x7 (720p)
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
