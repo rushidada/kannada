@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Merge kan.m3u and hin.m3u into hk.m3.m3u8
+      - name: Merge kan.m3u and hin.m3u into hk.m3u8
         run: |
           curl -fsSL "https://dearbulut.github.io/iptv/playlists/language/kan.m3u" > hk.m3u8
           echo "" >> hk.m3u8
